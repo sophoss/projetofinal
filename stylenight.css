@@ -8,15 +8,10 @@ html, body
 }
 body 
 {
-    color: black;
-    background-color: lightgray;
+    color: white;
+    background-color: black;
     padding: 0;
     margin: 0;
-}
-.modo-noturno
-{
-    background-color: black;
-    color: white;
 }
         
 footer 
