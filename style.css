@@ -1,7 +1,3 @@
-div.a
-{
-    text-align: center;  
-}
 html, body
 {
     min-height: 100%;
@@ -18,17 +14,6 @@ body
     background-color: black;
     color: white;
 }
-        
-footer 
-{
-    position: absolute;
-    bottom: 0;
-    background-color: #F7D002;
-    color: lightgray;
-    width: 100%;
-    height: 50px;    
-    line-height: 50px;
-}
 footer.a
 {
     position: relative;
@@ -42,4 +27,25 @@ footer.a
 div.b
 {
     text-align: right;
+}
+header
+{
+    background-color: #272624;
+    min-height: 150px;
+    text-align: center;
+    padding-top: 40px;
+}
+header > h1
+{
+    color: #F7D002;
+    margin-bottom: 20px;
+}
+header > p
+{
+    color: #F7D002;
+    font-size: 1.2em;
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
 }
