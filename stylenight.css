@@ -6,7 +6,7 @@ html, body
 {
     min-height: 100%;
 }
-body 
+body
 {
     color: white;
     background-color: black;
@@ -19,7 +19,7 @@ footer
     position: absolute;
     bottom: 0;
     background-color: #F7D002;
-    color: lightgray;
+    color: black;
     width: 100%;
     height: 50px;    
     line-height: 50px;
@@ -29,7 +29,7 @@ footer.a
     position: relative;
     bottom: 0;
     background-color: #F7D002;
-    color: lightgray;
+    color: black;
     width: 100%;
     height: 50px;    
     line-height: 50px;
